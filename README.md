@@ -1,0 +1,1 @@
+# btc-auto-trader
